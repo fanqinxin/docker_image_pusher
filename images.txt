@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-flannel:v0.26.7
+vllm/vllm-openai:v0.8.4
