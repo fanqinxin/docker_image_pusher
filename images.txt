@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #vllm/vllm-openai:v0.8.4
-milvusdb/milvus:v2.2.14
+#milvusdb/milvus:v2.2.14
+milvusdb/milvus:v2.5.9
