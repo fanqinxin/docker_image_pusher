@@ -11,4 +11,8 @@
 #quay.io/coreos/etcd:v3.5.18
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #bitnami/attu:2.5.7
-vllm/vllm-openai:v0.8.5
+#vllm/vllm-openai:v0.8.5
+postgres:12
+cassandra:4.0.1
+busybox:1.34
+zookeeper:3.6
