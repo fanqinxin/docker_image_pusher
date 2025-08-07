@@ -17,4 +17,5 @@
 #busybox:1.34
 #zookeeper:3.6
 #wurstmeister/kafka:2.12-2.2.1
-nvcr.io/nvidia/pytorch:24.02-py3
+#nvcr.io/nvidia/pytorch:24.02-py3
+gpustack/gpustack:latest-npu
