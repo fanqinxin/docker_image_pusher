@@ -20,5 +20,7 @@
 #nvcr.io/nvidia/pytorch:24.02-py3
 #--platform=linux/arm64 gpustack/gpustack:latest-npu
 #yanwk/comfyui-boot:cu124-megapak-20250811
-node:22-alpine
-alpine:3.20
+#node:22-alpine
+#alpine:3.20
+node:22-slim
+node:22
