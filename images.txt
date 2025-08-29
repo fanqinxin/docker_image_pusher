@@ -24,6 +24,7 @@
 #alpine:3.20
 #node:22-slim
 #node:22
---platform=linux/arm64 node:22-slim
---platform=linux/arm64 alpine:3.20
---platform=linux/arm64 nginx:alpine
+#--platform=linux/arm64 node:22-slim
+#--platform=linux/arm64 alpine:3.20
+#--platform=linux/arm64 nginx:alpine
+gpustack/gpustack:v0.7
