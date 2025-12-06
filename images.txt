@@ -34,4 +34,5 @@
 #gpustack/gpustack:v0.7
 #vllm/vllm-openai:v0.10.2
 #--platform=linux/arm64 paulgauthier/aider-full:v0.86.0
-concourse/concourse
+#concourse/concourse
+bytebase/bytebase:3.12.2
