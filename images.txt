@@ -36,4 +36,6 @@
 #--platform=linux/arm64 paulgauthier/aider-full:v0.86.0
 #concourse/concourse
 #bytebase/bytebase:3.12.2
-gpustack/gpustack:v2.0
+#gpustack/gpustack:v2.0
+prom/prometheus:v3.8.1
+grafana/grafana:12.3
