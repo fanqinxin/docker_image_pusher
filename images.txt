@@ -39,4 +39,5 @@
 #gpustack/gpustack:v2.0
 #prom/prometheus:v3.8.1
 #grafana/grafana:12.3
-alexsuntop/mineru:2.7.0
+#alexsuntop/mineru:2.7.0
+--platform=linux/arm64 onlyoffice/documentserver:9.1.0
