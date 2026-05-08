@@ -45,4 +45,5 @@
 #vllm/vllm-openai:gemma4
 #yanwk/comfyui-boot:cu128-slim-20260420
 #yanwk/comfyui-boot:cu128-megapak
-yanwk/comfyui-boot:cu128-slim-20260504
+#yanwk/comfyui-boot:cu128-slim-20260504
+yanwk/comfyui-boot:cu130-megapak-pt211-20260508
