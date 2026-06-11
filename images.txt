@@ -48,4 +48,5 @@
 #yanwk/comfyui-boot:cu128-slim-20260504
 #yanwk/comfyui-boot:cu130-megapak-pt211-20260508
 #openmetadata/ingestion:1.12.10
-opensearchproject/opensearch:3.3.2
+#opensearchproject/opensearch:3.3.2
+openmetadata/server:1.12.10
