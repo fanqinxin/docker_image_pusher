@@ -50,4 +50,5 @@
 #openmetadata/ingestion:1.12.10
 #opensearchproject/opensearch:3.3.2
 #openmetadata/server:1.12.10
-alexsuntop/mineru:3.1.0
+#alexsuntop/mineru:3.1.0
+quay.io/keycloak/keycloak:26.6.4
